@@ -1,6 +1,6 @@
 {
   "schemaVersion": "guard.mcp-server-contribution.v1",
-  "id": "mcp.aseprite-lua-mcp",
+  "id": "mcp.aseprite",
   "version": "1.0.0",
   "name": "Aseprite Lua MCP",
   "description": "Runs one agent-written Lua script per call through Aseprite's headless CLI. Because the script is arbitrary code, the execute tool is reviewed. Off until you turn it on.",
